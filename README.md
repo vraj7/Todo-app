@@ -2,5 +2,5 @@
 Simple todo rest api implementation
 # To install
 npm install
-# to Run the project
+# To Run the project
 npm start 
